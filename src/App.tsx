@@ -1,9 +1,10 @@
 import React, { FC } from 'react';
-import styles from './App.module.scss';
+import './global.scss';
+import Var from './components/var';
 
 const App: FC = () => (
   <div>
-    <h1 className={styles.title}>Hello, world!</h1>
+    <Var />
   </div>
 );
 
