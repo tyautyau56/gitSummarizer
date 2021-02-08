@@ -8,6 +8,7 @@ class Var extends React.Component<any, any> {
       <div className='var'>
         <Nav />
         <Nav />
+        <Nav />
       </div>
     );
   }
