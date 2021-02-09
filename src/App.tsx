@@ -3,9 +3,9 @@ import './global.scss';
 import Var from './components/var';
 
 const App: FC = () => (
-  <div>
-    <Var />
-  </div>
+    <div>
+        <Var />
+    </div>
 );
 
 export default App;
